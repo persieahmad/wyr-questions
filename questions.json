@@ -1,1 +1,247 @@
-{}
+[
+  {
+    "question": "Would you rather have the ability to fly or be invisible?",
+    "options": {
+      "A": "Fly",
+      "B": "Invisible"
+    }
+  },
+  {
+    "question": "Would you rather time travel to the past or the future?",
+    "options": {
+      "A": "Past",
+      "B": "Future"
+    }
+  },
+  {
+    "question": "Would you rather always be 10 minutes late or always be 20 minutes early?",
+    "options": {
+      "A": "10 minutes late",
+      "B": "20 minutes early"
+    }
+  },
+  {
+    "question": "Would you rather be able to read minds or control minds?",
+    "options": {
+      "A": "Read minds",
+      "B": "Control minds"
+    }
+  },
+  {
+    "question": "Would you rather have dinner with your favorite celebrity or with your best friend?",
+    "options": {
+      "A": "Celebrity",
+      "B": "Best friend"
+    }
+  },
+  {
+    "question": "Would you rather live without the internet or without air conditioning?",
+    "options": {
+      "A": "No internet",
+      "B": "No air conditioning"
+    }
+  },
+  {
+    "question": "Would you rather be able to talk to animals or speak all human languages?",
+    "options": {
+      "A": "Talk to animals",
+      "B": "Speak all human languages"
+    }
+  },
+  {
+    "question": "Would you rather live in a world without music or without books?",
+    "options": {
+      "A": "No music",
+      "B": "No books"
+    }
+  },
+  {
+    "question": "Would you rather be feared by all but loved by none or loved by all but feared by none?",
+    "options": {
+      "A": "Feared but not loved",
+      "B": "Loved but not feared"
+    }
+  },
+  {
+    "question": "Would you rather have a rewind button in life or a pause button?",
+    "options": {
+      "A": "Rewind",
+      "B": "Pause"
+    }
+  },
+  {
+    "question": "Would you rather explore space or the deep sea?",
+    "options": {
+      "A": "Space",
+      "B": "Deep sea"
+    }
+  },
+  {
+    "question": "Would you rather fight 100 duck-sized horses or 1 horse-sized duck?",
+    "options": {
+      "A": "100 duck-sized horses",
+      "B": "1 horse-sized duck"
+    }
+  },
+  {
+    "question": "Would you rather be rich and miserable or poor and happy?",
+    "options": {
+      "A": "Rich and miserable",
+      "B": "Poor and happy"
+    }
+  },
+  {
+    "question": "Would you rather live forever or have the power to resurrect someone once?",
+    "options": {
+      "A": "Live forever",
+      "B": "Resurrect someone"
+    }
+  },
+  {
+    "question": "Would you rather always know the truth or always be lied to?",
+    "options": {
+      "A": "Know the truth",
+      "B": "Be lied to"
+    }
+  },
+  {
+    "question": "Would you rather be able to play every musical instrument or be able to speak every language?",
+    "options": {
+      "A": "Play every instrument",
+      "B": "Speak every language"
+    }
+  },
+  {
+    "question": "Would you rather be the smartest person in the world or the richest?",
+    "options": {
+      "A": "Smartest",
+      "B": "Richest"
+    }
+  },
+  {
+    "question": "Would you rather be able to breathe underwater or be able to walk through fire?",
+    "options": {
+      "A": "Breathe underwater",
+      "B": "Walk through fire"
+    }
+  },
+  {
+    "question": "Would you rather live on a beach or in the mountains?",
+    "options": {
+      "A": "Beach",
+      "B": "Mountains"
+    }
+  },
+  {
+    "question": "Would you rather never have to sleep or never have to eat?",
+    "options": {
+      "A": "Never sleep",
+      "B": "Never eat"
+    }
+  },
+  {
+    "question": "Would you rather be able to teleport anywhere or be able to read minds?",
+    "options": {
+      "A": "Teleport",
+      "B": "Read minds"
+    }
+  },
+  {
+    "question": "Would you rather know when you're going to die or how you're going to die?",
+    "options": {
+      "A": "When",
+      "B": "How"
+    }
+  },
+  {
+    "question": "Would you rather have the ability to talk to your past self or to your future self?",
+    "options": {
+      "A": "Past self",
+      "B": "Future self"
+    }
+  },
+  {
+    "question": "Would you rather always have to tell the truth or always have to lie?",
+    "options": {
+      "A": "Always tell the truth",
+      "B": "Always lie"
+    }
+  },
+  {
+    "question": "Would you rather live in a place with no seasons or in a place where it’s always raining?",
+    "options": {
+      "A": "No seasons",
+      "B": "Always raining"
+    }
+  },
+  {
+    "question": "Would you rather have a rewind button in your life or a fast-forward button?",
+    "options": {
+      "A": "Rewind",
+      "B": "Fast-forward"
+    }
+  },
+  {
+    "question": "Would you rather be able to control time or control people's actions?",
+    "options": {
+      "A": "Control time",
+      "B": "Control people's actions"
+    }
+  },
+  {
+    "question": "Would you rather never age or never feel pain?",
+    "options": {
+      "A": "Never age",
+      "B": "Never feel pain"
+    }
+  },
+  {
+    "question": "Would you rather live in a world where money doesn’t exist or a world without crime?",
+    "options": {
+      "A": "No money",
+      "B": "No crime"
+    }
+  },
+  {
+    "question": "Would you rather lose your ability to speak or your ability to hear?",
+    "options": {
+      "A": "Lose speaking",
+      "B": "Lose hearing"
+    }
+  },
+  {
+    "question": "Would you rather live in a futuristic city or a small village?",
+    "options": {
+      "A": "Futuristic city",
+      "B": "Small village"
+    }
+  },
+  {
+    "question": "Would you rather never use social media again or never watch TV again?",
+    "options": {
+      "A": "No social media",
+      "B": "No TV"
+    }
+  },
+  {
+    "question": "Would you rather always be stuck in traffic or always have to wait in long lines?",
+    "options": {
+      "A": "Traffic",
+      "B": "Long lines"
+    }
+  },
+  {
+    "question": "Would you rather have no internet for a week or no phone for a week?",
+    "options": {
+      "A": "No internet",
+      "B": "No phone"
+    }
+  },
+  {
+    "question": "Would you rather live in a mansion with no friends or in a small house with all your friends?",
+    "options": {
+      "A": "Mansion with no friends",
+      "B": "Small house with friends"
+    }
+  }
+]
